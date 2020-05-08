@@ -1,0 +1,200 @@
+{
+    "Books": [
+        {
+            "id": 1,
+            "title": "The Handmaid's Tale: The Graphic Novel",
+            "ISBN": "3242312131",
+            "author": [
+                "Margaret Atwood"
+            ],
+            "publication": "McClelland & Stewart",
+            "price": "400",
+            "edition": "7th edition",
+            "genre": "Fiction",
+            "page_count": "311",
+            "published_year": "1985"
+        },
+        {
+            "id": 2,
+            "title": "Lord of the Flies",
+            "ISBN": "0791041352",
+            "author": [
+                "William Golding"
+            ],
+            "publication": "Facts On File",
+            "price": "500",
+            "edition": "2nd edition",
+            "genre": "Fiction",
+            "page_count": "322",
+            "published_year": "2000"
+        },
+        {
+            "id": 3,
+            "title": "Dracula",
+            "ISBN": "112432344",
+            "author": [
+                "Bram Stoker"
+            ],
+            "publication": "Seagull Publishers",
+            "price": "399",
+            "edition": "2nd edition",
+            "genre": "Horror",
+            "page_count": "298",
+            "published_year": "1897"
+        },
+        {
+            "id": 4,
+            "title": "The Haunting of Hill House",
+            "ISBN": "343343323",
+            "author": [
+                "Shirley Jackson"
+            ],
+            "publication": "Gothic Publisher",
+            "price": "600",
+            "edition": "4th edition",
+            "genre": "Horror",
+            "page_count": "246",
+            "published_year": "1959"
+        },
+        {
+            "id": 5,
+            "title": "Bird Box",
+            "ISBN": "0062259652",
+            "author": [
+                "Josh Malerman"
+            ],
+            "publication": "Sentinal Co",
+            "price": "500",
+            "edition": "2nd edition",
+            "genre": "Horror",
+            "page_count": "278",
+            "published_year": "2014"
+        },
+        {
+            "id": 6,
+            "title": "Jane Eyre",
+            "ISBN": "3243423244",
+            "author": [
+                "Charlotte Brontë"
+            ],
+            "publication": "Smith, Elder",
+            "price": "499",
+            "edition": "3rd edition",
+            "genre": "Romance",
+            "page_count": "250",
+            "published_year": "1847"
+        },
+        {
+            "id": 7,
+            "title": "The Thorn Birds",
+            "ISBN": "333232233",
+            "author": [
+                "Colleen McCullough"
+            ],
+            "publication": "Jake and Paul",
+            "price": "400",
+            "edition": "3rd edition",
+            "genre": "Romance",
+            "page_count": "692",
+            "published_year": "1892"
+        },
+        {
+            "id": 8,
+            "title": "Unlocking Android",
+            "ISBN": "1933988673",
+            "author": [
+                "W. Frank Ableson"
+            ],
+            "publication": "Sun",
+            "price": "800",
+            "edition": "2nd edition",
+            "genre": "technology",
+            "page_count": "788",
+            "published_year": "1982"
+        },
+        {
+            "id": 9,
+            "title": "Flex on Java",
+            "ISBN": "1933988797",
+            "author": [
+                "Bernerd Allmon"
+            ],
+            "publication": "Sun",
+            "price": "899",
+            "edition": "6th edition",
+            "genre": "technology",
+            "page_count": "788",
+            "published_year": "1978"
+        },
+        {
+            "id": 10,
+            "title": "Gone Girl",
+            "ISBN": "3212432331",
+            "author": [
+                "Gillian Flynn"
+            ],
+            "publication": "Heather conduor",
+            "price": "500",
+            "edition": "1st edition",
+            "genre": "Thriller",
+            "page_count": "432",
+            "published_year": "2012"
+        },
+        {
+            "id": 11,
+            "title": "An Anonymous Girl",
+            "ISBN": "33231222423",
+            "author": [
+                "Greer Hendricks"
+            ],
+            "publication": "J&B Cowell",
+            "price": "499",
+            "edition": "1st edition",
+            "genre": "Thriller",
+            "page_count": "782",
+            "published_year": "2018"
+        },
+        {
+            "id": 12,
+            "title": "Lord of the Rings",
+            "ISBN": "232132332",
+            "author": [
+                "J. R. R. Tolkien"
+            ],
+            "publication": "Hell and Heaven",
+            "price": "900",
+            "edition": "2nd edition",
+            "genre": "Fantasy",
+            "page_count": "300",
+            "published_year": "1954"
+        },
+        {
+            "id": 13,
+            "title": "Game of Thrones",
+            "ISBN": "2132323323",
+            "author": [
+                "George R. R. Martin"
+            ],
+            "publication": "Bantam Spectra",
+            "price": "1200",
+            "edition": "1st edition",
+            "genre": "Fantasy",
+            "page_count": "694",
+            "published_year": "1996"
+        },
+        {
+            "id": 14,
+            "title": "The Grownup",
+            "ISBN": "3452454444",
+            "author": [
+                "Gillian Flynn"
+            ],
+            "publication": "Bantam Spectra",
+            "price": "300",
+            "edition": "1st edition",
+            "genre": "Fiction",
+            "page_count": "120",
+            "published_year": "2015"
+        }
+    ]
+}
