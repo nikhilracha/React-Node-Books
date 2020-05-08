@@ -34,9 +34,19 @@ http://localhost:9000/books/author/:author/genre/:genre
  npm install
  ```
 
-2) To run with docker use : 
+2) To build the docker image: 
 ```bash
-docker run -it -p 9000:5000 -v $(pwd):/app node-rest-api
+docker build -t dock-node .
+```
+
+3) To run the image in a container use : 
+```bash
+docker run -d -p 9000:5000 dock-node
+```
+
+4) To run in interactive and allocate a pseudo-TTY use : 💻 (optional)
+```bash
+docker run -it -p 9000:5000 -v $(pwd):/app dock-node
 ```
 
 Runs the app in the port 9000.<br />

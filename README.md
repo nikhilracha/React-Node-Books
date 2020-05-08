@@ -1,4 +1,4 @@
-## React-Node-Books-Api is developed with React-JS as Front-end and Node-Express JS as Back-end.
+## React-Node-Books-Api is developed with React-JS as Front-end and Node-Express JS as Back-end 👨🏻‍💻.
 
 This directory has two directories : 
 * front-end
@@ -27,9 +27,19 @@ npm start
  npm install
  ```
 
-2) To run with docker use : 
+2) To build the docker image: 
 ```bash
-docker run -it -p 9000:5000 -v $(pwd):/app node-rest-api
+docker build -t dock-node .
+```
+
+3) To run the image in a container use : 
+```bash
+docker run -d -p 9000:5000 dock-node
+```
+
+4) To run in interactive and allocate a pseudo-TTY use : 💻 (optional)
+```bash
+docker run -it -p 9000:5000 -v $(pwd):/app dock-node
 ```
 
 ### Routes that are accessible to this server 
